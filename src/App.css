@@ -110,3 +110,9 @@ input[type="text"]{
 .delete-btn:hover{
   background-color: #838bda;
 }
+
+.loader{
+  display: flex;
+  justify-content: center;
+  margin-top: 250px;
+}
