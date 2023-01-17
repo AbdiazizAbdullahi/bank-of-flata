@@ -30,7 +30,4 @@ This app was created and coded by
     Abdiaziz Abdullahi
 ("https://github.com/AbdiazizAbdullahi")
 
-
-Feel free to customize the application as per your requirement.
-
 Enjoy!
